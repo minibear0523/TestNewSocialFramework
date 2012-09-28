@@ -9,6 +9,11 @@
 #import "com_chunyu_ViewController.h"
 #import <Social/Social.h>
 
+
+// Stackoverflow教程
+// http://stackoverflow.com/questions/12503287/tutorial-for-slcomposeviewcontroller-sharing
+
+
 #define CONTENT_TO_SHARE (@"测试通过iOS 6的Social Framework发布内容。")
 
 enum {
